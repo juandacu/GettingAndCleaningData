@@ -1,5 +1,7 @@
 ## This file explains how the script works:
 
+## Downloading the data from the internet and loading the data into R
+
 setwd("~/R Studio personal projects/Curso Johns Hopkins/Getting and Cleaning Data/Final Project")
 
 if(!file.exists("./data")){dir.create("./data")}
