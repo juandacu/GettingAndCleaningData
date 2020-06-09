@@ -1,4 +1,4 @@
-This file explains how the script works:
+##This file explains how the script works:
 
 setwd("~/R Studio personal projects/Curso Johns Hopkins/Getting and Cleaning Data/Final Project")
 
