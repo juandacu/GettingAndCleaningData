@@ -1,4 +1,13 @@
-## This file explains how the script works:
+## This project is part of the "Getting and cleaning data" course from the Univeristy of John Hopkins 
+
+The project extracts the "Human Activity Recognition Using Smartphones" dataset available on http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Then it load its into R to extract a tidy data set included in this repository (tidydata.txt)
+
+Also, there is a codebook explaining the meaning of each variable (codebook.md)
+
+
+## Explaining how the run_analysis.R script works:
 
 ## Downloading the data from the internet and loading the data into R
 
