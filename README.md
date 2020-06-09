@@ -52,7 +52,7 @@ Labels <- read.table(file.path(datapath, "activity_labels.txt"),header = FALSE)
 data$activity <- factor(data$activity, levels = c(1,2,3,4,5,6),labels = c("WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"))
 head(data$activity)
 
-## 4. Appropriately labels the data set with descriptive variable names.
+## Appropriately labels the data set with descriptive variable names.
 ##honestly I did not found any descriptive variable name, neither on the website or the zipfile :(
 
 
